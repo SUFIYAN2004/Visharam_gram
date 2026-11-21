@@ -1,0 +1,7 @@
+its in Demo we are using vite as frontend 
+how to see the frontend 
+download nodejs 
+and download this zip file and open vscode 
+open vscode's terminal npm install and npm run dev 
+you'll see the link http://localhost:5173/ 
+copy and paste into browser 
